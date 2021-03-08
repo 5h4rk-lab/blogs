@@ -8,3 +8,5 @@ these are some articles on topics like CTF-walkthrougs,tryhackme rooms,retired H
 [wgelCTF-tryhackme-walkthrough](https://medium.com/@gocharan98/wgel-ctf-tryhackme-write-up-8983116d5fb8)
 
 [nmap room - pentest+ track](https://gocharan98.medium.com/nmap-thm-a4cc49e409eb)
+
+[passage](https://gocharan98.medium.com/passage-htb-walk-through-d85283c3aeff)
